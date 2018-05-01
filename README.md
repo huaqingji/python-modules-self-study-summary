@@ -1,4 +1,4 @@
-# Python Module Self-Study Summary
+# Python Modules Self-Study Summary
 
 This file contains the basic use-methods  of some important modules I summarized from courses and some online sources.
 
